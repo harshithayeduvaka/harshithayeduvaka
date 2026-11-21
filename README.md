@@ -63,7 +63,7 @@ SKEMA case studies. The full decks are on my [portfolio](https://harshitha-yeduv
 - **Data storytelling:** KPI design for SaaS (MRR, churn, CSAT, adoption), dashboards built for different readers
 - **Brand strategy:** positioning, omnichannel analysis, market research
 
-**Languages:** English · <!-- add yours with levels, e.g. French (B1), Hindi, Telugu -->
+**Languages:** English (Bilingual) · French (B2) · Telugu (Native) · Hindi (Bilingual) · Korean (Elementary) · Chinese (Elementary) <!-- add yours with levels, e.g. French (B1), Hindi, Telugu -->
 
 ---
 
