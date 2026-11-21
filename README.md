@@ -54,8 +54,6 @@ SKEMA case studies. The full decks are on my [portfolio](https://harshitha-yeduv
 
 **Building**
 ![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 **What I'm good at**
